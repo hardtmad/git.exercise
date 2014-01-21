@@ -4,5 +4,6 @@ public class HelloWorld
     main (String[] args) 
   {
     System.out.println ("Hello again, GitHub!");
+    System.out.println ("Hello, world");
   } // main(String[])
 }
